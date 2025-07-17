@@ -94,3 +94,10 @@ Worker 2556 started
 Worker 7288 started
 Worker 2800 started
 ```
+
+- If you need to kill any worker, open another terminal then run
+``` js
+kill 9016
+```
+
+- Note: If you kill Master PID, then it kills the cluster and all workers died.
