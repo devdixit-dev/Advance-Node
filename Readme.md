@@ -5,10 +5,9 @@
 
 # execution
 1. console.log
-2. console.log
-3. Promises
-4. setImmediate()
-5. setTimeout()
+2. Promises
+3. setImmediate()
+4. setTimeout()
 
 # 2. Streams
 - read data from a source or write data to a destination in a continuous manner.
